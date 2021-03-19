@@ -1,0 +1,12 @@
+
+# BEGIN WP_Encryption
+# Директивы (строки) между `BEGIN WP_Encryption` и `END WP_Encryption`
+# созданы автоматически и подлежат изменению только через фильтры WordPress.
+# Сделанные вручную изменения между этими маркерами будут перезаписаны.
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTPS} =on [NC]
+RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_FILENAME} [R=301,L]
+</IfModule>
+
+# END WP_Encryption

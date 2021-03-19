@@ -1,0 +1,5 @@
+a:12:{s:16:"folders_per_load";i:15;s:12:"pms_per_load";i:15;s:13:"min_num_posts";i:5;s:24:"max_num_contacts_per_day";i:20;s:19:"max_num_pms_per_day";i:100;s:24:"max_num_users_per_folder";i:0;s:18:"allow_external_url";i:1;s:22:"allow_external_img_url";i:1;s:22:"allow_embedded_content";i:1;s:18:"email_notification";i:1;s:33:"new_pm_notification_email_subject";s:19:"New Private Message";s:33:"new_pm_notification_email_message";s:177:"Hello!<br>
+             You have received new Private Message.
+             <br><br>
+             <strong>[conversation]</strong>
+             <blockquote>[msg]</blockquote>";}

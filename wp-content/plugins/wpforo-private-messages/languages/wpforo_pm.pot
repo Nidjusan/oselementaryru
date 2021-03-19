@@ -1,0 +1,435 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: wpForo Private Messages\n"
+"POT-Creation-Date: 2017-02-24 22:44+0400\n"
+"PO-Revision-Date: 2017-02-17 16:56+0400\n"
+"Last-Translator: gVectors Team <info@gvectors.com>\n"
+"Language-Team: gVectors Team <info@gvectors.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wpforopm.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:72 includes/wpfpm-phrases.php:34
+msgid "Loading Older Messages..."
+msgstr ""
+
+#: includes/functions.php:73 includes/wpfpm-phrases.php:66
+msgid "This is a start conversation"
+msgstr ""
+
+#: includes/functions.php:74 includes/wpfpm-phrases.php:74
+msgid "Unread"
+msgstr ""
+
+#: includes/functions.php:75 includes/wpfpm-phrases.php:42
+msgid "Now"
+msgstr ""
+
+#: includes/functions.php:76 includes/wpfpm-phrases.php:69
+msgid "Today"
+msgstr ""
+
+#: includes/functions.php:77 includes/wpfpm-phrases.php:85
+msgid "Yesterday"
+msgstr ""
+
+#: includes/functions.php:78 includes/wpfpm-phrases.php:46
+msgid "Message Sent"
+msgstr ""
+
+#: includes/functions.php:79 includes/wpfpm-phrases.php:51
+msgid "Please login to write a message"
+msgstr ""
+
+#: includes/functions.php:80 includes/wpfpm-phrases.php:38
+msgid "Message is empty"
+msgstr ""
+
+#: includes/functions.php:81 includes/wpfpm-phrases.php:5
+#, php-format
+msgid "You have %d new message"
+msgstr ""
+
+#: includes/functions.php:82 includes/wpfpm-phrases.php:6
+#, php-format
+msgid "You have %d new messages"
+msgstr ""
+
+#: includes/functions.php:83 includes/wpfpm-phrases.php:61
+msgid "Send a Message"
+msgstr ""
+
+#: includes/functions.php:84 includes/wpfpm-phrases.php:40
+msgid "New Conversation"
+msgstr ""
+
+#: includes/functions.php:85 includes/wpfpm-phrases.php:93
+msgid "no discussion"
+msgstr ""
+
+#: includes/functions.php:86 includes/wpfpm-phrases.php:62
+msgid "Settings"
+msgstr ""
+
+#: includes/functions.php:87 includes/wpfpm-phrases.php:90
+#, php-format
+msgid "last activity: %s"
+msgstr ""
+
+#: includes/functions.php:88 includes/wpfpm-phrases.php:12
+msgid "Are you sure you want to block?"
+msgstr ""
+
+#: includes/functions.php:89 includes/wpfpm-phrases.php:13
+msgid "Are you sure you want to unblock?"
+msgstr ""
+
+#: includes/functions.php:90 includes/wpfpm-phrases.php:16
+msgid "Blocked"
+msgstr ""
+
+#: includes/functions.php:91 includes/wpfpm-phrases.php:88
+msgid "You have been blocked by this user."
+msgstr ""
+
+#: includes/functions.php:92 includes/wpfpm-phrases.php:78
+msgid "User successfully blocked"
+msgstr ""
+
+#: includes/functions.php:93 includes/wpfpm-phrases.php:80
+msgid "User successfully unblocked"
+msgstr ""
+
+#: includes/functions.php:94 includes/wpfpm-phrases.php:30
+msgid "Error: user not selected"
+msgstr ""
+
+#: includes/functions.php:95 includes/wpfpm-phrases.php:87
+msgid "You are not allowed to write a message yet."
+msgstr ""
+
+#: includes/functions.php:96 includes/wpfpm-phrases.php:65
+msgid "The number of contacts per day is exceeded."
+msgstr ""
+
+#: includes/functions.php:97 includes/wpfpm-phrases.php:64
+msgid "The maximum number of messages for this contact is exceeded."
+msgstr ""
+
+#: includes/functions.php:98 includes/wpfpm-phrases.php:20
+msgid "Conversation Title"
+msgstr ""
+
+#: includes/functions.php:99 includes/wpfpm-phrases.php:19
+msgid "Conversation Members"
+msgstr ""
+
+#: includes/functions.php:100 includes/wpfpm-phrases.php:22
+msgid "Create New Private Conversation"
+msgstr ""
+
+#: includes/functions.php:123
+msgid ""
+"IMPORTANT: wpForo Private Messages plugin is a wpForo extension, please "
+"install wpForo plugin."
+msgstr ""
+
+#: includes/gvt-api-manager.php:115
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+"\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/gvt-api-manager.php:119
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/gvt-api-manager.php:165
+msgid "Activate"
+msgstr ""
+
+#: includes/options.php:20 includes/wpfpm-phrases.php:43
+msgid "Number of Private Messages per load"
+msgstr ""
+
+#: includes/options.php:25 includes/wpfpm-phrases.php:39
+msgid "Min number of forum posts user must have"
+msgstr ""
+
+#: includes/options.php:26 includes/wpfpm-phrases.php:67
+msgid "This is the first level of spam message protection."
+msgstr ""
+
+#: includes/options.php:30 includes/options.php:43 includes/options.php:52
+#: includes/wpfpm-phrases.php:94
+msgid "set 0 to remove this limit"
+msgstr ""
+
+#: includes/options.php:35 includes/wpfpm-phrases.php:36
+msgid "Maximum number of contacts per day"
+msgstr ""
+
+#: includes/options.php:37 includes/wpfpm-phrases.php:33
+msgid "Limits number of contacts you can send a message during one day."
+msgstr ""
+
+#: includes/options.php:38 includes/wpfpm-phrases.php:68
+msgid ""
+"This option is designed for all Usergroups, except admin and moderator "
+"Usergroups."
+msgstr ""
+
+#: includes/options.php:48 includes/wpfpm-phrases.php:35
+msgid "Max number of personal messages per user during one day"
+msgstr ""
+
+#: includes/options.php:57 includes/wpfpm-phrases.php:11
+msgid "Allow external URL and link in messages"
+msgstr ""
+
+#: includes/options.php:61 includes/options.php:72 includes/options.php:83
+#: includes/wpfpm-phrases.php:27
+msgid "Enable"
+msgstr ""
+
+#: includes/options.php:62 includes/options.php:73 includes/options.php:84
+#: includes/wpfpm-phrases.php:26
+msgid "Disable"
+msgstr ""
+
+#: includes/options.php:68 includes/wpfpm-phrases.php:9
+msgid "Allow Image URLs in messages"
+msgstr ""
+
+#: includes/options.php:79 includes/wpfpm-phrases.php:10
+msgid "Allow embedded content in messages"
+msgstr ""
+
+#: includes/options.php:89 includes/wpfpm-phrases.php:75
+msgid "Update Options"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:7
+msgid "Add People"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:8
+msgid "Add new people to this conversation"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:14
+msgid "Block"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:15
+msgid "Block User"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:17
+msgid "Can't send report email"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:18
+msgid "Comma separated user nickname, e.g: @john,@alex,"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:21
+msgid "Conversation successfully deleted"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:23
+msgid "Data is empty"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:24
+msgid "Delete"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:25
+msgid "Delete this conversation with all messages"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:28
+msgid "Error: Conversation not selected"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:29
+msgid "Error: please insert some text to report."
+msgstr ""
+
+#: includes/wpfpm-phrases.php:31
+msgid "Hide"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:32
+msgid "Hide from this list"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:37
+msgid "Message has been sent"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:41
+msgid "No user selected"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:44
+msgid "Options Saved"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:45
+msgid "PM Send error"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:47
+msgid "Permission denied"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:48
+msgid "Pin"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:49
+msgid "Pin to top"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:50
+msgid "Please add a new contact"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:52
+msgid "Private Messages successfully deleted"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:53
+msgid "Profile link"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:54
+msgid "Remove"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:55
+msgid "Remove this user from conversation"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:56
+msgid "Report"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:57
+msgid "Report Spam"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:58
+msgid "Report to forum administrators"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:59
+msgid "Send"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:60
+msgid "Send Report"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:63
+msgid "Successfully Hided"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:70
+msgid "Unblock"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:71
+msgid "Unblock User"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:72
+msgid "Unpin"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:73
+msgid "Unpin from top"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:76
+msgid "User Names"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:77
+msgid "User not removed"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:79
+msgid "User successfully removed"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:81
+msgid "Users not added"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:82
+msgid "Users successfully added to Conversation"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:83
+msgid "Write message"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:84
+msgid "Wrong Data"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:86
+msgid "You"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:89
+msgid "You have no one to talk."
+msgstr ""
+
+#: includes/wpfpm-phrases.php:91
+msgid "members"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:92
+msgid "messages"
+msgstr ""
+
+#: includes/wpfpm-phrases.php:95
+msgid "unread"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "wpForo Private Messages"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpForo.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provides a safe way to communicate directly with other members. Messages "
+"are private and can only be viewed by conversation participants"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "gVectors Team (A. Chakhoyan and R. Hovhannisyan)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://gvectors.com/"
+msgstr ""

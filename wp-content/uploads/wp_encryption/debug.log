@@ -1,0 +1,33 @@
+<b>5.3.15  SINGLE DOMAIN SSL 0 - http://oselementary.ru</b>
+[19-03-2021 10:35:50] :
+LEClient finished constructing
+
+Offering manual verification procedure. 
+
+
+https://dns.google.com/resolve?name=_acme-challenge.oselementary.ru&amp;type=TXT should return TtMYb2feYx_B_HI-ifwcEJZnWuXOP4UWcaryBVqzk1E
+[19-03-2021 10:36:17] :
+LEClient finished constructing
+
+[19-03-2021 10:36:19] :
+DNS challenge for 'oselementary.ru' tested locally, found invalid.
+
+<h2>There are some pending verifications. If new DNS records were added, please run this installation again after 5-10mins</h2>
+
+
+https://dns.google.com/resolve?name=_acme-challenge.oselementary.ru&amp;type=TXT should return TtMYb2feYx_B_HI-ifwcEJZnWuXOP4UWcaryBVqzk1E
+[19-03-2021 11:44:49] :
+LEClient finished constructing
+
+[19-03-2021 11:44:52] :
+DNS challenge for 'oselementary.ru' valid.
+
+Finalizing the order
+[19-03-2021 11:45:00] :
+Order for 'oselementary.ru' finalized.
+
+Getting SSL certificates
+[19-03-2021 11:45:01] :
+Certificate for 'oselementary.ru' saved
+
+<h2>SSL Certificate generated successfully!</h2>

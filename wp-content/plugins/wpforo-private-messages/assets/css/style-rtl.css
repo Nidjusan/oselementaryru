@@ -1,0 +1,16 @@
+#wpforo #wpforo-wrap #wpfpm-ul-users-tooltip-wrap > i.fa-list-ul {margin-left: 15px;margin-right: 0px;}
+#wpforo #wpforo-wrap .wpfpm-members-count {right: 20px; left: 0; text-align: center;}
+#wpforo #wpforo-wrap .wpfpm-add-user > .wpfpm-udatalist{left: auto; right: -60px;}
+#wpforo #wpforo-wrap .wpfpm-add-user > .wpfpm-udatalist input[type="text"]{padding-right: 10px !important; padding-left: 35px !important;}
+#wpforo #wpforo-wrap .wpfpm-add-user .wpfpm-add-user-go{right: auto; left: -22px;}
+#wpforo #wpforo-wrap .wpfpm-msg-before:before{left: auto; right: -8px; border-right: 15px solid rgba(0,0,0,0); border-left: 0px solid rgba(0,0,0,0);}
+#wpforo #wpforo-wrap .wpfpm-me .wpfpm-msg-before:before{right: auto; left: -8px; border-right: 0px solid rgba(0,0,0,0); border-left: 15px solid rgba(0,0,0,0);}
+#wpforo #wpforo-wrap .wpforo-messages-content .wpfpm-left{left:auto;right:0;transform:translateX(102%);}
+#wpforo #wpforo-wrap .wpfpm-current-folder-info{margin-left: 5px; margin-right: 0;}
+#wpforo #wpforo-wrap #wpfpm-ul-users-tooltip-wrap > i.fa-users{margin-left: 15px;margin-right: 0;}
+#wpforo #wpforo-wrap #wpfpm-uli-users-wrap .wpfpm-ul-users-tooltip{left: auto;right: -55px;}
+#wpforo #wpforo-wrap .wpfpm-add-user > .wpfpm-udatalist:before{left: auto;right: 59px;}
+#wpforo #wpforo-wrap #wpfpm-uli-users-wrap .wpfpm-ul-users-tooltip:before{left: auto;right: 52px;}
+#wpforo #wpforo-wrap #wpfpm-users-list .wpfpm-uli .wpfpm-uli-cog-tooltip{left: 0;right: auto;}
+#wpforo #wpforo-wrap #wpfpm-users-list .wpfpm-uli .wpfpm-uli-cog-tooltip:before{left: 11px;  right: auto;border-left: 0 solid rgba(0, 0, 0, 0);  border-right: 15px solid rgba(0, 0, 0, 0);}
+#wpforo #wpforo-wrap .wpfpm-uli-cog:hover i.fa-cog, #wpforo #wpforo-wrap .wpfpm-uli-cog:focus i.fa-cog, #wpforo #wpforo-wrap .wpfpm-ul-users-tooltip li:hover i.fa-cog, #wpforo #wpforo-wrap .wpfpm-ul-users-tooltip li:focus i.fa-cog{  -webkit-transform: none;  transform: none;  }

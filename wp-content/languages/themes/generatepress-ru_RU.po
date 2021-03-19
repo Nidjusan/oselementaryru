@@ -1,0 +1,1006 @@
+# Translation of Themes - GeneratePress in Russian
+# This file is distributed under the same license as the Themes - GeneratePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-19 18:34:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - GeneratePress\n"
+
+#. Description of the theme
+msgid "GeneratePress is a lightweight WordPress theme built with a focus on speed and usability. Performance is important to us, which is why a fresh GeneratePress install adds less than 10kb (gzipped) to your page size. We take full advantage of the new block editor (Gutenberg), which gives you more control over creating your content. If you use page builders, GeneratePress is the right theme for you. It is completely compatible with all major page builders, including Beaver Builder and Elementor. Thanks to our emphasis on WordPress coding standards, we can boast full compatibility with all well-coded plugins, including WooCommerce. GeneratePress is fully responsive, uses valid HTML/CSS and is translated into over 25 languages by our amazing community of users. A few of our many features include microdata integration, 9 widget areas, 5 navigation locations, 5 sidebar layouts, dropdown menus (click or hover) and navigation color presets. Learn more and check out our powerful premium version at https://generatepress.com"
+msgstr "GeneratePress - это легкая тема WordPress, созданная с акцентом на скорость и удобство использования. Для нас важна производительность, поэтому новая установка GeneratePress добавляет к размеру вашей страницы менее 15 Кб (в формате gzip). Мы в полной мере используем преимущества нового редактора блоков (Gutenberg), который дает вам больше контроля над созданием вашего контента. Если вы используете конструкторы страниц, GeneratePress - это подходящая тема для вас. Она полностью совместима со всеми основными конструкторами страниц, включая Beaver Builder и Elementor. Благодаря нашему особому вниманию к стандартам кодирования WordPress, мы можем похвастаться полной совместимостью со всеми хорошо написанными плагинами, включая WooCommerce. GeneratePress полностью адаптивна, использует валидный HTML / CSS и переведена на более 25 языков нашим удивительным сообществом пользователей. Некоторые из наших многочисленных функций включают интеграцию микроданных, 9 областей виджетов, 5 местоположений навигации, 5 вариантов расположения сайдбаров, выпадающие меню (клик или наведение) и цветовые схемы для меню навигации. Узнайте больше и ознакомьтесь с нашей мощной премиум-версией по адресу https://generatepress.com"
+
+#. Theme Name of the theme
+#: inc/dashboard.php:20 inc/structure/footer.php:93
+msgid "GeneratePress"
+msgstr "GeneratePress"
+
+#: inc/meta-box.php:176
+msgid "Choose your content container type."
+msgstr "Выберите тип контейнера содержимого"
+
+#: inc/meta-box.php:105 inc/meta-box.php:173
+msgid "Content Container"
+msgstr "Контейнер содержимого"
+
+#: inc/general.php:91
+msgid "Close Sub-Menu"
+msgstr "Закрыть подменю"
+
+#: inc/general.php:90
+msgid "Open Sub-Menu"
+msgstr "Открыть подменю"
+
+#: inc/block-editor.php:141
+msgid "Show Content Title"
+msgstr "Показать заголовок содержимого"
+
+#: inc/block-editor.php:140
+msgid "Disable Content Title"
+msgstr "Отключить заголовок содержимого"
+
+#: inc/structure/footer.php:92
+msgctxt "GeneratePress"
+msgid "Built with"
+msgstr "Создано в"
+
+#. translators: Aria-label describing the read more button
+#: inc/structure/post-meta.php:459 inc/structure/post-meta.php:487
+msgctxt "more on post title"
+msgid "More on %s"
+msgstr "Больше на %s"
+
+#: inc/structure/post-meta.php:116
+msgctxt "prepends the pagination page number for screen readers"
+msgid "Page"
+msgstr "Страница"
+
+#. translators: right arrow
+#: inc/structure/post-meta.php:110
+msgid "Next %s"
+msgstr "Следующая %s"
+
+#. translators: left arrow
+#: inc/structure/post-meta.php:102
+msgid "%s Previous"
+msgstr "%s Предыдущая"
+
+#: inc/customizer.php:1490
+msgid "here"
+msgstr "Здесь"
+
+#. translators: Learn more here
+#: inc/customizer.php:1489
+msgid "Switching your structure can change how your website displays. Review your website thoroughly before publishing this change, or use a staging site to review the potential changes. Learn more %s."
+msgstr "Изменение структуры может изменить внешний вид вашего веб-сайта. Тщательно проверьте свой веб-сайт перед публикацией этого изменения или воспользуйтесь отладочным сайтом для проверки потенциальных изменений. Узнать больше %s."
+
+#: inc/customizer.php:1486
+msgid "Caution:"
+msgstr "Внимание:"
+
+#: inc/customizer.php:1482
+msgid "Floats"
+msgstr "Обтекание"
+
+#: inc/customizer.php:1481
+msgid "Flexbox"
+msgstr "Флексбокс"
+
+#: inc/customizer.php:1478
+msgid "Structure"
+msgstr "Структура"
+
+#: inc/customizer.php:1396
+msgid "Full Content"
+msgstr "По всей ширине"
+
+#: inc/customizer.php:742
+msgid "Navigation After"
+msgstr "Навигация после"
+
+#: inc/customizer.php:741
+msgid "Navigation Before"
+msgstr "Навигация перед"
+
+#: inc/customizer.php:418 inc/customizer.php:740
+msgid "Classic"
+msgstr "Классический"
+
+#: inc/general.php:108
+msgid "Close Search Bar"
+msgstr "Закрыть панель поиска"
+
+#: inc/structure/navigation.php:194 inc/structure/navigation.php:513
+#: inc/structure/navigation.php:554 inc/structure/navigation.php:595
+#: inc/general.php:107
+msgid "Open Search Bar"
+msgstr "Открыть строку поиска"
+
+#: inc/customizer.php:1535
+msgid "Reduce the number of CSS file requests and use a lite version of our grid system."
+msgstr "Сократите количество запросов к файлам CSS и используйте облегченную версию нашей грид-системы."
+
+#: inc/customizer.php:1534
+msgid "Combine CSS"
+msgstr "Объединить CSS"
+
+#: inc/customizer.php:1515
+msgid "Font"
+msgstr "Шрифт"
+
+#: inc/customizer.php:1514
+msgid "SVG"
+msgstr "SVG"
+
+#: inc/customizer.php:1511
+msgid "Icon Type"
+msgstr "Тип иконки"
+
+#: inc/customizer.php:1133
+msgid "Text"
+msgstr "Текст"
+
+#: inc/customizer.php:1132
+msgid "Boxes"
+msgstr "Блоки"
+
+#: inc/customizer.php:1129
+msgid "Container Alignment"
+msgstr "Выравнивание Контейнера"
+
+#: inc/customizer.php:222
+msgid "Place logo next to title"
+msgstr "Поместите логотип рядом с названием сайта"
+
+#: inc/typography.php:644
+msgid "Heading 3 (H3)"
+msgstr "Заголовок 3 (H3)"
+
+#: inc/typography.php:497
+msgid "Heading 2 (H2)"
+msgstr "Заголовок 2 (H2)"
+
+#: inc/typography.php:350
+msgid "Heading 1 (H1)"
+msgstr "Заголовок 1 (H1)"
+
+#: inc/dashboard.php:261
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+#: inc/dashboard.php:247
+msgid "Visit documentation &rarr;"
+msgstr "Перейти в документацию &rarr;"
+
+#: inc/dashboard.php:246
+msgid "Want to learn more about the theme? Check out our extensive documentation."
+msgstr "Хотите узнать больше о теме? Ознакомитесь с нашей документацией."
+
+#: inc/dashboard.php:231
+msgid "Start Customizing"
+msgstr "Начать настройку"
+
+#: inc/dashboard.php:221
+msgid "All Options"
+msgstr "Все настройки"
+
+#: inc/dashboard.php:216
+msgid "Layout Options"
+msgstr "Настройки макета"
+
+#: inc/dashboard.php:211
+msgid "Customize Colors"
+msgstr "Настроить цвета"
+
+#: inc/dashboard.php:206
+msgid "Customize Fonts"
+msgstr "Настроить шрифты"
+
+#: inc/dashboard.php:201
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: inc/customizer.php:1057
+msgid "Dropdown Direction"
+msgstr "Направление раскрывания"
+
+#: inc/customizer.php:1000
+msgid "The width when the navigation ceases to float and drops below your logo."
+msgstr "Ширина, когда навигация перестает плавать и опускается ниже вашего логотипа."
+
+#: inc/customizer.php:999
+msgid "Navigation Drop Point"
+msgstr "Точка опускания навигации"
+
+#: inc/customizer.php:745
+msgid "Navigation Left"
+msgstr "Навигация слева"
+
+#: inc/customizer.php:744
+msgid "Navigation After - Centered"
+msgstr "Навигация в конце - По центру"
+
+#: inc/customizer.php:743
+msgid "Navigation Before - Centered"
+msgstr "Навигация в начале - По центру"
+
+#: inc/customizer.php:735
+msgid "Header Presets"
+msgstr "Схемы шапки"
+
+#: inc/customizer.php:422
+msgid "Blue"
+msgstr "Синий"
+
+#: inc/customizer.php:421
+msgid "Green"
+msgstr "Зелёный"
+
+#: inc/customizer.php:420
+msgid "Red"
+msgstr "Красный"
+
+#: inc/customizer.php:419
+msgid "Grey"
+msgstr "Серый"
+
+#: inc/customizer.php:416 inc/customizer.php:738
+msgid "Current"
+msgstr "Текущий"
+
+#: inc/customizer.php:412
+msgid "Navigation Color Presets"
+msgstr "Цветовые схемы меню навигации"
+
+#: inc/customizer.php:390
+msgid "Blog Post Title Hover"
+msgstr "Заголовок записи блога при наведении"
+
+#: inc/customizer.php:368
+msgid "Blog Post Title"
+msgstr "Заголовок записи блога"
+
+#: inc/customizer.php:190
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/structure/navigation.php:625
+msgid "Mobile Menu"
+msgstr "Мобильное Меню"
+
+#: inc/meta-box.php:196
+msgid "Premium module available"
+msgstr "Доступен премиум-модуль"
+
+#: inc/dashboard.php:263
+msgid "Deleting your settings can not be undone."
+msgstr "Безвозвратное удаление ваших настроек."
+
+#: inc/dashboard.php:157
+msgid "Premium Modules"
+msgstr "Премиум-модули"
+
+#: inc/customizer.php:1555
+msgid "Cache CSS generated by your options to boost performance."
+msgstr "Кэшировать CSS, сгенерированный по вашим настройкам, для повышения производительности."
+
+#: inc/customizer.php:1554
+msgid "Cache dynamic CSS"
+msgstr "Кэшировать динамический CSS"
+
+#: inc/customizer.php:1445
+msgid "Load essential Font Awesome icons instead of the full library."
+msgstr "Загружать необходимые иконки Font Awesome вместо всей библиотеки."
+
+#: inc/customizer.php:1444
+msgid "Load essential icons only"
+msgstr "Загружать только необходимые иконки"
+
+#: inc/customizer.php:1425
+msgid "General"
+msgstr "Общие"
+
+#: inc/customizer.php:1397
+msgid "Excerpt"
+msgstr "Анонс"
+
+#: inc/customizer.php:1393
+msgid "Content Type"
+msgstr "Тип содержимого"
+
+#: inc/typography.php:732 inc/customizer.php:559 inc/customizer.php:1413
+msgid "More options are available for this section in our premium version."
+msgstr "Для этого раздела доступны дополнительные опции в нашей премиум версии."
+
+#: inc/customizer.php:558
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: inc/customizer.php:167
+msgid "Retina Logo"
+msgstr "Логотип Retina"
+
+#: inc/customizer.php:82
+msgid "Premium Modules Available"
+msgstr "Доступны модули Premium"
+
+#: inc/customizer/controls/class-typography-control.php:80
+msgid "Variants"
+msgstr "Варианты"
+
+#: inc/customizer/controls/class-typography-control.php:73
+msgid "System fonts"
+msgstr "Системные шрифты"
+
+#: inc/structure/comments.php:129
+msgid "Comment"
+msgstr "Комментарий"
+
+#: inc/customizer/controls/class-range-control.php:71
+msgid "Mobile"
+msgstr "Смартфон"
+
+#: inc/customizer/controls/class-range-control.php:70
+msgid "Tablet"
+msgstr "Планшет"
+
+#: inc/customizer/controls/class-range-control.php:69
+msgid "Desktop"
+msgstr "Компьютер"
+
+#: inc/meta-box.php:181
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: inc/customizer.php:699
+msgid "Top Bar Alignment"
+msgstr "Выравнивание верхней панели"
+
+#: inc/customizer.php:673
+msgid "Top Bar Inner Width"
+msgstr "Ширина содержимого верхней панели"
+
+#: inc/customizer.php:647
+msgid "Top Bar Width"
+msgstr "Ширина верхней панели"
+
+#: inc/customizer.php:627 inc/general.php:139
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/typography.php:731 inc/dashboard.php:168 inc/customizer.php:1412
+msgid "Learn more"
+msgstr "Узнать больше"
+
+#: inc/dashboard.php:56
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/dashboard.php:53
+msgid "Premium"
+msgstr "Премиум"
+
+#: inc/customizer.php:1334
+msgid "Footer Bar Alignment"
+msgstr "Выравнивание панели подвала"
+
+#: inc/general.php:138
+msgid "Footer Bar"
+msgstr "Панель подвала"
+
+#: inc/customizer.php:1281
+msgid "Inner Footer Width"
+msgstr "Ширина содержимого подвала"
+
+#: inc/customizer.php:918
+msgid "Inner Navigation Width"
+msgstr "Ширина содержимого меню"
+
+#: inc/customizer.php:833
+msgid "Inner Header Width"
+msgstr "Ширина содержимого шапки"
+
+#: inc/typography.php:282
+msgid "Paragraph margin"
+msgstr "Отступ параграфа"
+
+#: inc/typography.php:248 inc/typography.php:429 inc/typography.php:576
+#: inc/typography.php:705
+msgid "Line height"
+msgstr "Высота строки"
+
+#: inc/dashboard.php:272 inc/customizer/controls/class-range-control.php:72
+msgid "Reset"
+msgstr "Сброс"
+
+#: inc/customizer.php:1236
+msgid "Footer"
+msgstr "Подвал (footer)"
+
+#: inc/customizer.php:1143 inc/meta-box.php:90
+msgid "Sidebars"
+msgstr "Сайдбары"
+
+#: inc/customizer.php:873
+msgid "Primary Navigation"
+msgstr "Основное меню"
+
+#: inc/customizer.php:583
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/structure/footer.php:237
+msgid "Scroll back to top"
+msgstr "Прокрутка вверх"
+
+#: inc/customizer.php:1360
+msgid "Back to Top Button"
+msgstr "Кнопка вверх"
+
+#: inc/customizer.php:1256
+msgid "Footer Width"
+msgstr "Ширина подвала"
+
+#: inc/customizer.php:1037
+msgid "Click - Arrow"
+msgstr "Клик по стрелке"
+
+#: inc/customizer.php:1036
+msgid "Click - Menu Item"
+msgstr "Клик по пункту меню"
+
+#: inc/customizer.php:1035
+msgid "Hover"
+msgstr "Наведение"
+
+#: inc/customizer.php:1032
+msgid "Navigation Dropdown"
+msgstr "Выпадающее меню"
+
+#: inc/customizer.php:893
+msgid "Navigation Width"
+msgstr "Ширина меню"
+
+#: inc/customizer.php:650 inc/customizer.php:676 inc/customizer.php:811
+#: inc/customizer.php:837 inc/customizer.php:896 inc/customizer.php:922
+#: inc/customizer.php:1259 inc/customizer.php:1285
+msgid "Full"
+msgstr "Полный"
+
+#: inc/customizer.php:808
+msgid "Header Width"
+msgstr "Ширина шапки"
+
+#. translators: %s: Heart icon
+#: inc/dashboard.php:302
+msgctxt "made with love"
+msgid "Made with %s by Tom Usborne"
+msgstr "Сделано с %s Томом Асборном"
+
+#: inc/customizer.php:975
+msgid "Float Left"
+msgstr "Обтекание слева"
+
+#: inc/dashboard.php:55
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/meta-box.php:189 inc/meta-box.php:191
+msgid "Content Title"
+msgstr "Заголовок содержимого"
+
+#: content-404.php:51
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Похоже, что ничего не найдено по этому адресу. Может быть поищем?"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Найти..."
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#. translators: 1: Search query name
+#: search.php:33
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: no-results.php:62
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти, что вы ищете. Возможно, поиск поможет."
+
+#: no-results.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Нет соответствий для ваших условий поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#. translators: 1: Admin URL
+#: no-results.php:49
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: no-results.php:27
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/structure/post-meta.php:278
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: inc/structure/post-meta.php:278
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/structure/post-meta.php:278
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: inc/structure/post-meta.php:262
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/structure/post-meta.php:245
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Рубрики"
+
+#: inc/structure/post-meta.php:237 inc/structure/post-meta.php:254
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/structure/navigation.php:454
+msgctxt "label"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/structure/post-meta.php:456 inc/structure/post-meta.php:484
+msgid "Read more"
+msgstr "Читать далее"
+
+#. translators: 1: Author name
+#: inc/structure/post-meta.php:226
+msgid "View all posts by %s"
+msgstr "Просмотр всех записей %s"
+
+#: inc/structure/post-meta.php:305
+msgid "by"
+msgstr "от"
+
+#: inc/structure/comments.php:64
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#. translators: 1: date, 2: time
+#: inc/structure/comments.php:52
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/structure/comments.php:28
+msgid "Pingback:"
+msgstr "Пингбэк:"
+
+#: inc/structure/post-meta.php:89
+msgid "Newer posts"
+msgstr "Новые записи"
+
+#: inc/structure/post-meta.php:80
+msgid "Older posts"
+msgstr "Старые записи"
+
+#: inc/structure/post-meta.php:50 inc/structure/post-meta.php:89
+msgid "Next"
+msgstr "Далее"
+
+#: inc/structure/post-meta.php:49 inc/structure/post-meta.php:80
+msgid "Previous"
+msgstr "Предыдущая"
+
+#: inc/structure/post-meta.php:41
+msgid "Post navigation"
+msgstr "Навигация записи"
+
+#: inc/deprecated.php:31
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+#: inc/deprecated.php:30
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущая"
+
+#: inc/dashboard.php:373
+msgid "Settings removed."
+msgstr "Настройки удалены."
+
+#: inc/dashboard.php:368
+msgid "Import successful."
+msgstr "Импорт выполнен успешно."
+
+#: inc/dashboard.php:363
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: inc/meta-box.php:100 inc/meta-box.php:186
+msgid "Disable Elements"
+msgstr "Отключить элементы"
+
+#: inc/dashboard.php:268
+msgid "Warning: This will delete your settings."
+msgstr "Предупреждение! Это приведет к удалению ваших настроек."
+
+#: inc/dashboard.php:93
+msgid "Customize"
+msgstr "Настроить"
+
+#: searchform.php:21 searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: inc/structure/header.php:401 inc/structure/header.php:402
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/structure/navigation.php:50 inc/structure/navigation.php:60
+#: inc/structure/navigation.php:139 inc/structure/navigation.php:155
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/meta-box.php:168
+msgid "5 Widgets"
+msgstr "5 виджетов"
+
+#: inc/meta-box.php:167
+msgid "4 Widgets"
+msgstr "4 виджета"
+
+#: inc/meta-box.php:166
+msgid "3 Widgets"
+msgstr "3 виджета"
+
+#: inc/meta-box.php:165
+msgid "2 Widgets"
+msgstr "2 виджета"
+
+#: inc/meta-box.php:164
+msgid "1 Widgets"
+msgstr "1 виджет"
+
+#: inc/meta-box.php:163
+msgid "0 Widgets"
+msgstr "0 виджетов"
+
+#: inc/meta-box.php:152
+msgid "Both Sidebars on Right"
+msgstr "Оба сайдбара справа"
+
+#: inc/meta-box.php:151
+msgid "Both Sidebars on Left"
+msgstr "Оба сайдбара слева"
+
+#: inc/meta-box.php:150
+msgid "Both Sidebars"
+msgstr "Оба сайдбара"
+
+#: inc/meta-box.php:149
+msgid "No Sidebars"
+msgstr "Нет сайдбаров"
+
+#: inc/customizer.php:417 inc/customizer.php:739 inc/meta-box.php:146
+#: inc/meta-box.php:162 inc/meta-box.php:180
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:1374
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer.php:1305 inc/meta-box.php:95 inc/meta-box.php:159
+msgid "Footer Widgets"
+msgstr "Виджеты в подвале"
+
+#: inc/customizer.php:1218
+msgid "Single Post Sidebar Layout"
+msgstr "Расположение сайдбаров в записи"
+
+#: inc/customizer.php:1190
+msgid "Blog Sidebar Layout"
+msgstr "Расположение сайдбаров в блоге"
+
+#: inc/customizer.php:1170 inc/customizer.php:1198 inc/customizer.php:1226
+msgid "Content / Sidebar / Sidebar"
+msgstr "Содержимое / Сайдбар / Сайдбар"
+
+#: inc/customizer.php:1169 inc/customizer.php:1197 inc/customizer.php:1225
+msgid "Sidebar / Sidebar / Content"
+msgstr "Сайдбар / Сайдбар / Содержимое"
+
+#: inc/customizer.php:1168 inc/customizer.php:1196 inc/customizer.php:1224
+msgid "Sidebar / Content / Sidebar"
+msgstr "Сайдбар / Содержимое / Сайдбар"
+
+#: inc/customizer.php:1167 inc/customizer.php:1195 inc/customizer.php:1223
+msgid "Content (no sidebars)"
+msgstr "Содержимое (без сайдбаров)"
+
+#: inc/customizer.php:1166 inc/customizer.php:1194 inc/customizer.php:1222
+msgid "Content / Sidebar"
+msgstr "Содержимое / Сайдбар"
+
+#: inc/customizer.php:1165 inc/customizer.php:1193 inc/customizer.php:1221
+msgid "Sidebar / Content"
+msgstr "Сайдбар / Содержимое"
+
+#: inc/customizer.php:1162 inc/meta-box.php:143
+msgid "Sidebar Layout"
+msgstr "Расположение сайдбаров"
+
+#: inc/customizer.php:1109
+msgid "One Container"
+msgstr "Один контейнер"
+
+#: inc/customizer.php:1108
+msgid "Separate Containers"
+msgstr "Отдельные контейнеры"
+
+#: inc/customizer.php:1105
+msgid "Content Layout"
+msgstr "Макет содержимого"
+
+#: inc/customizer.php:1085 inc/customizer.php:1364
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/customizer.php:1084 inc/customizer.php:1363
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer.php:1081
+msgid "Navigation Search"
+msgstr "Поиск в меню"
+
+#: inc/customizer.php:943
+msgid "Navigation Alignment"
+msgstr "Выравнивание меню"
+
+#: inc/customizer.php:978
+msgid "No Navigation"
+msgstr "Нет меню"
+
+#: inc/customizer.php:974
+msgid "Float Right"
+msgstr "Обтекание справа"
+
+#: inc/customizer.php:973
+msgid "Above Header"
+msgstr "Над шапкой"
+
+#: inc/customizer.php:972
+msgid "Below Header"
+msgstr "Под шапкой"
+
+#: inc/customizer.php:969
+msgid "Navigation Location"
+msgstr "Расположение меню"
+
+#: inc/customizer.php:704 inc/customizer.php:863 inc/customizer.php:948
+#: inc/customizer.php:1060 inc/customizer.php:1339
+msgid "Right"
+msgstr "Право"
+
+#: inc/customizer.php:703 inc/customizer.php:862 inc/customizer.php:947
+#: inc/customizer.php:1338
+msgid "Center"
+msgstr "Центр"
+
+#: inc/customizer.php:702 inc/customizer.php:861 inc/customizer.php:946
+#: inc/customizer.php:1061 inc/customizer.php:1337
+msgid "Left"
+msgstr "Лево"
+
+#: inc/customizer.php:858
+msgid "Header Alignment"
+msgstr "Выравнивание шапки"
+
+#: inc/customizer.php:651 inc/customizer.php:677 inc/customizer.php:812
+#: inc/customizer.php:836 inc/customizer.php:897 inc/customizer.php:921
+#: inc/customizer.php:1260 inc/customizer.php:1284 inc/meta-box.php:182
+msgid "Contained"
+msgstr "Ограниченно"
+
+#: inc/customizer.php:605
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: inc/customizer.php:574 inc/meta-box.php:62
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/customizer.php:342
+msgid "Link Color Visited"
+msgstr "Цвет посещённой ссылки"
+
+#: inc/customizer.php:319
+msgid "Link Color Hover"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/customizer.php:297
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: inc/customizer.php:275
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer.php:253
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer.php:231
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:145
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer.php:124
+msgid "Hide site tagline"
+msgstr "Скрыть описание сайта"
+
+#: inc/customizer.php:105
+msgid "Hide site title"
+msgstr "Скрыть заголовок сайта"
+
+#: inc/typography.php:214 inc/typography.php:388 inc/typography.php:535
+#: inc/typography.php:672
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: inc/customizer/controls/class-typography-control.php:78
+msgid "Text transform"
+msgstr "Преобразование"
+
+#: inc/customizer/controls/class-typography-control.php:77
+msgid "Font weight"
+msgstr "Насыщенность"
+
+#: inc/typography.php:184 inc/customizer.php:231
+msgid "Body"
+msgstr "Боди (body)"
+
+#: inc/typography.php:127
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/controls/class-typography-control.php:76
+#: inc/customizer/controls/class-deprecated.php:72
+msgid "Font family"
+msgstr "Семейство шрифтов"
+
+#: inc/customizer/controls/class-typography-control.php:74
+#: inc/customizer/controls/class-deprecated.php:71
+msgid "Google fonts"
+msgstr "Шрифты Google"
+
+#: inc/customizer/controls/class-deprecated.php:70
+msgid "Default fonts"
+msgstr "Шрифты по умолчанию"
+
+#: inc/customizer.php:715 inc/general.php:132
+msgid "Header"
+msgstr "Шапка (header)"
+
+#: inc/customizer.php:976 inc/general.php:131 inc/meta-box.php:148
+msgid "Left Sidebar"
+msgstr "Левый сайдбар"
+
+#: inc/customizer.php:977 inc/general.php:130 inc/meta-box.php:147
+msgid "Right Sidebar"
+msgstr "Правый сайдбар"
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/general.php:137
+msgid "Footer Widget 5"
+msgstr "Виджет подвала 5"
+
+#: inc/general.php:136
+msgid "Footer Widget 4"
+msgstr "Виджет подвала 4"
+
+#: inc/general.php:135
+msgid "Footer Widget 3"
+msgstr "Виджет подвала 3"
+
+#: inc/general.php:134
+msgid "Footer Widget 2"
+msgstr "Виджет подвала 2"
+
+#: inc/general.php:133
+msgid "Footer Widget 1"
+msgstr "Виджет подвала 1"
+
+#: inc/structure/comments.php:28 inc/structure/comments.php:59
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content-single.php:77 content.php:84 content-page.php:77 content-link.php:84
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/structure/comments.php:137
+msgid "Post Comment"
+msgstr "Комментировать"
+
+#: inc/structure/comments.php:136
+msgid "Leave a Comment"
+msgstr "Оставьте комментарий"
+
+#: inc/structure/comments.php:170
+msgid "Website"
+msgstr "Сайт"
+
+#: inc/structure/comments.php:163
+msgid "Email"
+msgstr "Email"
+
+#: inc/structure/comments.php:156
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:123
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:86 comments.php:113
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:85 comments.php:112
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:84 comments.php:111
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:50
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: inc/structure/sidebars.php:77
+msgid "Archives"
+msgstr "Архивы"
+
+#: content-404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#. Author of the theme
+msgid "Tom Usborne"
+msgstr "Том Асборн"
+
+#. Author URI of the theme
+msgid "https://tomusborne.com"
+msgstr "https://tomusborne.com"
+
+#. Theme URI of the theme
+msgid "https://generatepress.com"
+msgstr "https://generatepress.com"
